@@ -1,26 +1,26 @@
 {
   "meta": {
-    "client": "Saam Gabbay",
+    "client": "Alex Rivera",
     "role": "Photographer · Director · Composer",
     "tagline": "filmmaker + soundmaker",
-    "location": "Venice, CA",
+    "location": "Lisbon",
     "lastUpdated": "2026-06-01T07:12:00-07:00",
-    "weather": "63° · clear morning marine layer"
+    "weather": "18° · clear Atlantic morning"
   },
-  "brief": "Good morning, Saam. Quiet overnight — I cleared the desk so today is yours for the Nocturnes mix. The National Gallery channel-map is confirmed (I sent the reply, your sign-off is one tap), Almost Zero dailies are backed up to LTO and the cloud with proxies ready, and the R37 multicam is synced except for two timecode gaps I flagged. Three things genuinely need you today; everything else is moving. Telluride's window closes Friday — Almost Zero is the only deadline I can't move for you.",
+  "brief": "Good morning, Alex. Quiet overnight — I cleared the desk so today is yours for the Nightjar mix. The Meridian Hall channel-map is confirmed (I sent the reply, your sign-off is one tap), Tidewater dailies are backed up to LTO and the cloud with proxies ready, and the Northlight multicam is synced except for two timecode gaps I flagged. Three things genuinely need you today; everything else is moving. The Meridian Festival window closes Friday — Tidewater is the only deadline I can't move for you.",
   "pulse": { "needsYou": 3, "inMotion": 5, "shipped": 4 },
   "overnight": [
-    { "icon": "backup", "text": "Backed up 412 GB of <b>Almost Zero</b> dailies to LTO + cloud, generated ProRes proxies", "tag": "Footage" },
-    { "icon": "mark_email_read", "text": "Drafted reply to the <b>National Gallery</b> curator confirming the quadraphonic channel map", "tag": "Inbox" },
-    { "icon": "sync", "text": "Synced 6-camera <b>R37</b> concert footage by timecode — flagged 2 drift gaps for you", "tag": "Edit" },
-    { "icon": "movie", "text": "Cut a 30s vertical teaser for <b>Nocturnes</b>, queued for your Instagram approval", "tag": "Social" },
-    { "icon": "photo_library", "text": "Logged + tagged 1,240 stills from the <b>Alfa Romeo</b> scout, culled to 87 selects", "tag": "Stills" },
-    { "icon": "receipt_long", "text": "Reconciled the <b>BMW</b> invoice and chased the net-30 payment", "tag": "Admin" }
+    { "icon": "backup", "text": "Backed up 412 GB of <b>Tidewater</b> dailies to LTO + cloud, generated ProRes proxies", "tag": "Footage" },
+    { "icon": "mark_email_read", "text": "Drafted reply to the <b>Meridian Hall</b> curator confirming the quadraphonic channel map", "tag": "Inbox" },
+    { "icon": "sync", "text": "Synced 6-camera <b>Northlight</b> concert footage by timecode — flagged 2 drift gaps for you", "tag": "Edit" },
+    { "icon": "movie", "text": "Cut a 30s vertical teaser for <b>Nightjar</b>, queued for your Instagram approval", "tag": "Social" },
+    { "icon": "photo_library", "text": "Logged + tagged 1,240 stills from the <b>Meridian Coffee</b> scout, culled to 87 selects", "tag": "Stills" },
+    { "icon": "receipt_long", "text": "Reconciled the <b>Halcyon Studios</b> invoice and chased the net-30 payment", "tag": "Admin" }
   ],
   "pipeline": [
     {
-      "title": "Nocturnes",
-      "client": "National Gallery of Art",
+      "title": "Nightjar",
+      "client": "Meridian Hall",
       "type": "Original score",
       "stage": "Score / Sound",
       "state": "in-progress",
@@ -29,27 +29,27 @@
       "note": "12-minute quadraphonic surround score, one cue per photograph. 9 of 12 cues locked; today's session mixes the rotating sound-stage that guides the visitor's eye."
     },
     {
-      "title": "Almost Zero",
+      "title": "Tidewater",
       "client": "Festival cut",
       "type": "Short documentary",
       "stage": "Edit",
       "state": "needs-you",
       "progress": 64,
       "due": "2026-06-05",
-      "note": "Palisades Fire short shot on the Insta360 from the helicopter. Telluride submission closes Friday — needs your pick between two opening sequences."
+      "note": "Coastal-storm short shot on the drone from the cliffs. Meridian Festival submission closes Friday — needs your pick between two opening sequences."
     },
     {
-      "title": "BMW — Luminance",
-      "client": "BMW",
+      "title": "Solstice",
+      "client": "Halcyon Studios",
       "type": "Print + film campaign",
       "stage": "Deliver",
       "state": "needs-you",
       "progress": 92,
       "due": "2026-06-03",
-      "note": "Final grade back from Company 3. One sign-off away from delivery — your approval on the hero frame is the last gate."
+      "note": "Final grade back from Chroma Post. One sign-off away from delivery — your approval on the hero frame is the last gate."
     },
     {
-      "title": "R37",
+      "title": "Northlight",
       "client": "Self-produced",
       "type": "Concert film",
       "stage": "Edit",
@@ -59,46 +59,46 @@
       "note": "The live concert — pipe organ, modular synths, string quintet, marimba, vocals. 6-cam multicam now synced; assembling the marimba movement."
     },
     {
-      "title": "Alfa Romeo",
-      "client": "Alfa Romeo",
+      "title": "Meridian — Origins",
+      "client": "Meridian Coffee",
       "type": "Brand film",
       "stage": "Shoot",
       "state": "in-progress",
       "progress": 30,
       "due": "2026-06-12",
-      "note": "Topanga Canyon scout done, 87 selects ready for the director's deck. Call sheet drafts out to crew."
+      "note": "North-coast scout done, 87 selects ready for the director's deck. Call sheet drafts out to crew."
     },
     {
-      "title": "Samsung",
-      "client": "Samsung",
+      "title": "Lumen",
+      "client": "Lumen Audio",
       "type": "Product spot",
       "stage": "Pre-Production",
       "state": "in-progress",
       "progress": 12,
       "due": "2026-06-30",
-      "note": "Treatment in progress. Pre-pro call Saturday; I've assembled a reference board from your King Crimson / Underworld mood notes."
+      "note": "Treatment in progress. Pre-pro call Saturday; I've assembled a reference board from your ambient / post-rock mood notes."
     }
   ],
   "schedule": [
-    { "day": "MON", "date": "Jun 1", "time": "10:00", "title": "Nocturnes quad mix session", "place": "Studio · Venice", "kind": "score", "today": true },
-    { "day": "TUE", "date": "Jun 2", "time": "08:30", "title": "Alfa Romeo location lock", "place": "Topanga Canyon", "kind": "shoot" },
-    { "day": "WED", "date": "Jun 3", "time": "11:00", "title": "BMW final grade review", "place": "Company 3 · remote", "kind": "deliver" },
-    { "day": "THU", "date": "Jun 4", "time": "14:00", "title": "R37 multicam with editor", "place": "Studio · Venice", "kind": "edit" },
-    { "day": "FRI", "date": "Jun 5", "time": "17:00", "title": "Telluride submission closes", "place": "Almost Zero", "kind": "deadline" },
-    { "day": "SAT", "date": "Jun 6", "time": "12:00", "title": "Samsung pre-pro call", "place": "Zoom", "kind": "prep" }
+    { "day": "MON", "date": "Jun 1", "time": "10:00", "title": "Nightjar quad mix session", "place": "Studio · Lisbon", "kind": "score", "today": true },
+    { "day": "TUE", "date": "Jun 2", "time": "08:30", "title": "Meridian Coffee location lock", "place": "North coast", "kind": "shoot" },
+    { "day": "WED", "date": "Jun 3", "time": "11:00", "title": "Solstice final grade review", "place": "Chroma Post · remote", "kind": "deliver" },
+    { "day": "THU", "date": "Jun 4", "time": "14:00", "title": "Northlight multicam with editor", "place": "Studio · Lisbon", "kind": "edit" },
+    { "day": "FRI", "date": "Jun 5", "time": "17:00", "title": "Meridian Festival submission closes", "place": "Tidewater", "kind": "deadline" },
+    { "day": "SAT", "date": "Jun 6", "time": "12:00", "title": "Lumen pre-pro call", "place": "Zoom", "kind": "prep" }
   ],
   "inbox": [
-    { "from": "Dr. Lena Okafor · National Gallery", "subject": "Re: Quadraphonic channel map — confirmed", "category": "Client", "priority": "high", "action": "Reply drafted — sign off to send" },
-    { "from": "Telluride Film Festival", "subject": "Submission window closes Jun 5", "category": "Opportunity", "priority": "high", "action": "Submit Almost Zero (cut pending your pick)" },
-    { "from": "Audeze · Artist Relations", "subject": "Following up on the LCD-MX4 feature", "category": "Press", "priority": "normal", "action": "Draft ready — 2 quotes pulled from your notes" },
-    { "from": "Maya · Rep", "subject": "BMW invoice + Q3 availability", "category": "Admin", "priority": "normal", "action": "Invoice reconciled — calendar holds proposed" },
-    { "from": "USC School of Dance", "subject": "Restaging the commissioned film?", "category": "Opportunity", "priority": "normal", "action": "Summarized — your call, no rush" }
+    { "from": "Mara Quinn · Meridian Hall", "subject": "Re: Quadraphonic channel map — confirmed", "category": "Client", "priority": "high", "action": "Reply drafted — sign off to send" },
+    { "from": "Meridian Film Festival", "subject": "Submission window closes Jun 5", "category": "Opportunity", "priority": "high", "action": "Submit Tidewater (cut pending your pick)" },
+    { "from": "Aurora Audio · Artist Relations", "subject": "Following up on the studio-monitor feature", "category": "Press", "priority": "normal", "action": "Draft ready — 2 quotes pulled from your notes" },
+    { "from": "Devon · Rep", "subject": "Halcyon invoice + Q3 availability", "category": "Admin", "priority": "normal", "action": "Invoice reconciled — calendar holds proposed" },
+    { "from": "Coastal Dance Collective", "subject": "Restaging the commissioned film?", "category": "Opportunity", "priority": "normal", "action": "Summarized — your call, no rush" }
   ],
   "deliverables": [
-    { "name": "Nocturnes — 12-cue surround score", "due": "Jun 26", "progress": 78, "state": "in-progress" },
-    { "name": "BMW Luminance — hero film + 6 stills", "due": "Jun 3", "progress": 92, "state": "needs-you" },
-    { "name": "Almost Zero — festival cut", "due": "Jun 5", "progress": 64, "state": "needs-you" },
-    { "name": "R37 — concert film assembly", "due": "Jul 15", "progress": 41, "state": "in-progress" }
+    { "name": "Nightjar — 12-cue surround score", "due": "Jun 26", "progress": 78, "state": "in-progress" },
+    { "name": "Solstice — hero film + 6 stills", "due": "Jun 3", "progress": 92, "state": "needs-you" },
+    { "name": "Tidewater — festival cut", "due": "Jun 5", "progress": 64, "state": "needs-you" },
+    { "name": "Northlight — concert film assembly", "due": "Jul 15", "progress": 41, "state": "in-progress" }
   ],
   "analytics": {
     "time": [
@@ -114,6 +114,6 @@
   },
   "curious": [
     { "title": "How Maestro scored your week", "blurb": "16 hours of admin handled, 3 deadlines protected, 1 teaser cut. Here's the breakdown." },
-    { "title": "Nocturnes — channel-map preview", "blurb": "The rotating quad sound-stage, visualized cue by cue against each photograph." }
+    { "title": "Nightjar — channel-map preview", "blurb": "The rotating quad sound-stage, visualized cue by cue against each photograph." }
   ]
 }

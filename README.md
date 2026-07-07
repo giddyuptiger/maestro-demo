@@ -1,11 +1,12 @@
 # Maestro — Demo Command Center
 
 A live, single-page demonstration of **Maestro**, the AI manager that runs the
-operational layer of a creative practice. This build is personalized for
-photographer / director / composer **Saam Gabbay** to show what Maestro looks
+operational layer of a creative practice. It's illustrated with a **fictional**
+photographer / director / composer, **Alex Rivera**, to show what Maestro looks
 like when it's pointed at a working creative director's day.
 
-It is an illustrative demo populated with sample data — not affiliated with Saam.
+Everything on the page — the person, the clients, the projects, and the numbers —
+is fabricated sample data. It does not depict any real person or business.
 
 ## What's on it
 
